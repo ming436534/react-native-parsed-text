@@ -23,6 +23,7 @@
     "react-component"
   ],
   "devDependencies": {
+    "babel-preset-react-native-stage-0": "^1.0.1",
     "babel": "^6.3.13",
     "babel-plugin-external-helpers-2": "^6.1.4",
     "babel-plugin-syntax-async-functions": "^6.0.14",
